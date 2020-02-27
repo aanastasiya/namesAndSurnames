@@ -127,7 +127,7 @@ private:
   map<int, string> last_names;
   int yearOfBirth;
 };
-/*
+
 int main() {
   Person person("Polina", "Sergeeva", 1960);
   for (int year : {1959, 1960}) {
@@ -142,4 +142,4 @@ int main() {
 
   return 0;
 }
-*/
+
